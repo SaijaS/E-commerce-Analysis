@@ -1,2 +1,2 @@
 # E-commerce-Analysis
-The E-commerce Analysis, focusing on Blinkit, Swiggy Instamart, and JioMart. It includes customer feedback, delivery times, service ratings, and various factors.
+The E-commerce Analysis, focusing on Blinkit, Swiggy Instamart, and JioMart. It includes customer feedback, delivery times, service ratings, and various factors. It helps to identify the total sales, average sales, average delivery time and average rating based on platforms and item category. Here we can see the highest sales happening in platform at particular time. This power BI projects helps to identify the insights through visualization.
